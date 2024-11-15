@@ -1,0 +1,1 @@
+{"schema":"v1","records":[{"type":"ENVIRONMENT","operation":"CREATED","data":[{"data":"Added packages through pip package manager: numpy, pillow, pandas","mime":"text/plain"}],"important":null},{"type":"PROJECT","operation":"UPDATED","data":[{"data":"Updated Requested GPUs to '1'","mime":"text/plain"}],"important":null}]}
